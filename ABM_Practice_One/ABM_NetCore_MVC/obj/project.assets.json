@@ -5796,24 +5796,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Incluit-NB\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Incluit-NB\\source\\repos\\Practicas_NetCore\\ABM_Practice_One\\ABM_NetCore_MVC\\ABM_NetCore_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\Source\\Repos\\Practicas_NetCore\\ABM_Practice_One\\ABM_NetCore_MVC\\ABM_NetCore_MVC.csproj",
       "projectName": "ABM_NetCore_MVC",
-      "projectPath": "C:\\Users\\Incluit-NB\\source\\repos\\Practicas_NetCore\\ABM_Practice_One\\ABM_NetCore_MVC\\ABM_NetCore_MVC.csproj",
-      "packagesPath": "C:\\Users\\Incluit-NB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Incluit-NB\\source\\repos\\Practicas_NetCore\\ABM_Practice_One\\ABM_NetCore_MVC\\obj\\",
+      "projectPath": "C:\\Users\\carlo\\Source\\Repos\\Practicas_NetCore\\ABM_Practice_One\\ABM_NetCore_MVC\\ABM_NetCore_MVC.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carlo\\Source\\Repos\\Practicas_NetCore\\ABM_Practice_One\\ABM_NetCore_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Incluit-NB\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
