@@ -4,3 +4,6 @@
 
 /.vs/Practicas_NetCore/v16/.suo
 /ABM_Practice_One/.vs/ABM_Practice_One/v16/.suo
+/ABM_Practice_One/ABM_NetCore_MVC/bin/Debug/net5.0
+/ABM_Practice_One/ABM_NetCore_MVC/obj/Debug/net5.0
+/ABM_Practice_One/.vs/ABM_Practice_One/config/applicationhost.config
